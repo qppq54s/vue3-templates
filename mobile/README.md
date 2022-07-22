@@ -42,3 +42,28 @@ css: {
 ### 引入reset-mobile.css
 在assets文件夹下创建css/[reset-mobile.css](https://gist.githubusercontent.com/samzeng/996361c300c5fba40439ee042f9cb309/raw/71f44058e1e13b7193117054203a5f2b946fec6a/reset-mobile.css "reset-mobile.css")
 ```
+
+# 使用
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
